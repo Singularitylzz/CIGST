@@ -14,6 +14,6 @@ checkpoints/
 *.jpg
 *.png
 *.pdf
-
+!paper/CIGST_ICONIP2026.pdf
 .vscode/
 .idea/
